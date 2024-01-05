@@ -1,0 +1,1 @@
+tellraw @s [{"text": "well you cant spectate cuz i havent made it yet :P"}]

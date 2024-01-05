@@ -1,0 +1,1 @@
+execute as @e[tag=to] at @e[tag=from] facing entity @s feet run function code:drawline
